@@ -12,6 +12,10 @@ namespace TestGitHub
             Console.WriteLine("test Git hub");
             Console.WriteLine("3 commit");
             Console.ReadLine();
+			Console.ReadLine();
+			Console.ReadLine();
+			Console.ReadLine();
+			Console.ReadLine();
         }
     }
 }
