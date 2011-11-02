@@ -10,6 +10,7 @@ namespace TestGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("test Git hub");
+            Console.WriteLine("test Git hub");
             Console.ReadLine();
         }
     }
